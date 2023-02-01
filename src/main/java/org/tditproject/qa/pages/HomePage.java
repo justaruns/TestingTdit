@@ -89,6 +89,11 @@ public class HomePage {
 //			sideLinksList.add(e.getText());
 //		}
 //		return sideLinksList;
+	}
+		
+	public void isDisplayed() {
+		System.out.println("Yes");
+	
 		
 	}
 }
